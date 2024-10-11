@@ -1,3 +1,6 @@
 [submodule "2Numbers"]
 	path = 2Numbers
 	url = git@github.com:Eleee28/2Numbers.git
+[submodule "GuessTheNumber"]
+	path = GuessTheNumber
+	url = git@github.com:Eleee28/GuessTheNumber.git
