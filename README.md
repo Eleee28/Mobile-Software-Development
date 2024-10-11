@@ -1,2 +1,4 @@
-# Mobile-Software-Development
-Mobile Software Development (3rd Year Computer Sciences TUD)
+# Mobile Software Development
+This repository contains all materials of the subject Mobile Software Development.
+
+## Folder Organization
