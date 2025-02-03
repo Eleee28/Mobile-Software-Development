@@ -4,3 +4,6 @@
 [submodule "GuessTheNumber"]
 	path = GuessTheNumber
 	url = git@github.com:Eleee28/GuessTheNumber.git
+[submodule "Globetrotter"]
+	path = Globetrotter
+	url = https://github.com/Eleee28/Globetrotter.git

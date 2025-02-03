@@ -7,3 +7,4 @@ This repository contains all materials of the subject Mobile Software Developmen
 - ``Birds``: view bird info app (recycler view).
 - ``GPSLab``: simple chrono with location update app.
 - ``Intent``: greeting user app.
+- ``Globetrotter``: final project, travelling app.
