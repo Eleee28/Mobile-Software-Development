@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Birds</string>
+    <string name="bird_logo_desc">A logo representing birds</string>
+</resources>
